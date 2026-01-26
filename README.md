@@ -1,5 +1,4 @@
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:0A66C2,100:a6c1ee&height=180&section=header&text=Rudy%20G.%20|%20Data%20Engineering&fontSize=40&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:0A66C2,100:a6c1ee&height=180&section=header&text=RGC&fontSize=50&fontAlignY=35&animation=fadeIn)
 
 ---
 
@@ -58,8 +57,6 @@ Un espace pour tester, prototyper et apprendre rapidement.
 - LinkedIn : [https://www.linkedin.com/in/rgn3](https://www.linkedin.com/in/rgn3)  
 - GitHub : [https://github.com/rgctechfi](https://github.com/rgctechfi)  
 
-```md
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=0:FF6A00,100:0A66C2&height=120&section=footer)
-```
 
 ---
