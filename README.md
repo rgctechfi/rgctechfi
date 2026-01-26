@@ -1,7 +1,3 @@
----
-
-# 🌊 Bannière moderne
-
 ```md
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0:0A66C2,100:FF6A00&height=180&section=header&text=Rudy%20G.%20|%20Data%20Engineering&fontSize=40&fontAlignY=35&animation=fadeIn)
 ```
@@ -62,10 +58,6 @@ Un espace pour tester, prototyper et apprendre rapidement.
 
 - LinkedIn : [https://www.linkedin.com/in/rgn3](https://www.linkedin.com/in/rgn3)  
 - GitHub : [https://github.com/rgctechfi](https://github.com/rgctechfi)  
-
----
-
-# 🌊 Footer
 
 ```md
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=0:FF6A00,100:0A66C2&height=120&section=footer)
