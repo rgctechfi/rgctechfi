@@ -1,6 +1,5 @@
-```md
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0:0A66C2,100:a6c1ee&height=180&section=header&text=Rudy%20G.%20|%20Data%20Engineering&fontSize=40&fontAlignY=35)
-```
 
 ---
 
