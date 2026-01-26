@@ -46,9 +46,7 @@ Un espace pour tester, prototyper et apprendre rapidement.
 
 # 📊 Statistiques GitHub
 
-```md
 ![stats](https://github-readme-stats.vercel.app/api?username=rgctechfi&show_icons=true&theme=tokyonight)
-```
 
 ---
 
