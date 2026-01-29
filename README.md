@@ -1,7 +1,7 @@
 # WIP WORK IN PROGRESS
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%20&animation=fadeIn&type=waving&color=gradient&height=120"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%20%3C/%3E&animation=fadeIn&type=waving&color=gradient&height=120" width="100%"/>
 </p>
 
 <p align="center">
@@ -21,6 +21,9 @@ Data Engineer en progression, passionné par les workflows, la qualité des donn
 J’aime transformer des systèmes complexes en solutions simples, robustes et élégantes.  
 Actuellement engagé dans le **Data Engineering Zoomcamp 2026**, où je construis des pipelines modernes et industrialisables.
 
+<p align="center">
+  <img src="https://media.tenor.com/J3i0gN5tKkMAAAAC/elmo-fire.gif" alt="Data Engineer Fire" width="600" />
+</p>
 ---
 
 <details>
@@ -94,6 +97,7 @@ Un espace pour tester, prototyper et apprendre rapidement.
 - LinkedIn : [https://www.linkedin.com/in/rgn3](https://www.linkedin.com/in/rgn3)  
 - GitHub : [https://github.com/rgctechfi](https://github.com/rgctechfi)  
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=0:FF6A00,100:0A66C2&height=120&section=footer)
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=120&animation=fadeIn" width="100%"/>
+</p>
 ---
