@@ -1,5 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:0A66C2,100:a6c1ee&height=180&section=header&text=RGC&fontSize=50&fontAlignY=35&animation=fadeIn)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%20&animation=fadeIn&type=waving&color=gradient&height=120"/>
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/rgn3/">
+    <img height="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" />
+  </a>
+</p>
 ---
 
 # 👋 Salut, moi c’est Rudy
@@ -22,13 +29,18 @@ Actuellement engagé dans le **Data Engineering Zoomcamp 2026**, où je construi
 
 ### **Langages**
 - Python  
-- SQL  
+
+<p left="center">
+  <img src="https://skillicons.dev/icons?i=python,git" />
+</p>
 
 ### **Outils & Écosystème**
 - GitHub Actions  
 - VS Code  
 - Linux (Debian/Ubuntu)
-
+<p left="center">
+  <img src="https://skillicons.dev/icons?i=vscode,postgres,docker,gcp,dbt" />
+</p>
 ---
 
 # 🚀 Projets phares
