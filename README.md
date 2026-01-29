@@ -1,8 +1,9 @@
-# WIP WORK IN PROGRESS
+# WIP WORK IN PROGRESS 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%20%3C/%3E&animation=fadeIn&type=waving&color=gradient&height=120" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%20&animation=fadeIn&type=waving&color=gradient&height=120" width='100%'/>
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rgn3/">
@@ -20,11 +21,6 @@
 Data Engineer en progression, passionné par les workflows, la qualité des données et les environnements Linux.  
 J’aime transformer des systèmes complexes en solutions simples, robustes et élégantes.  
 Actuellement engagé dans le **Data Engineering Zoomcamp 2026**, où je construis des pipelines modernes et industrialisables.
-
-<p align="center">
-  <img src="https://media.tenor.com/J3i0gN5tKkMAAAAC/elmo-fire.gif" alt="Data Engineer Fire" width="600" />
-</p>
----
 
 <details>
 <summary> 📄 <b>Clique ici pour voir mon Parcours (CV Rapide)</b></summary>
@@ -44,6 +40,9 @@ Actuellement engagé dans le **Data Engineering Zoomcamp 2026**, où je construi
 - **Back:** Node.js, Python
 </details>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" alt="Data Engineer Code" width="400" />
+</p>
 ---
 
 
