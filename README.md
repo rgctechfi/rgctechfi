@@ -1,3 +1,5 @@
+# WIP WORK IN PROGRESS
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%20&animation=fadeIn&type=waving&color=gradient&height=120"/>
 </p>
@@ -6,7 +8,11 @@
   <a href="https://www.linkedin.com/in/rgn3/">
     <img height="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" />
   </a>
+  &nbsp; &nbsp; <a href="LIEN_VERS_TON_CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Mon_CV-Télécharger-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV" height="40"/>
+  </a>
 </p>
+
 ---
 
 # 👋 Salut, moi c’est Rudy
@@ -16,6 +22,27 @@ J’aime transformer des systèmes complexes en solutions simples, robustes et �
 Actuellement engagé dans le **Data Engineering Zoomcamp 2026**, où je construis des pipelines modernes et industrialisables.
 
 ---
+
+<details>
+<summary> 📄 <b>Clique ici pour voir mon Parcours (CV Rapide)</b></summary>
+<br>
+
+### 💼 XP
+- **Poste Actuel** | Entreprise | *Dates*
+  - Description de la tâche 1...
+- **Poste Précédent** | Entreprise | *Dates*
+  - Description...
+
+### 🎓 Formation
+- **Diplôme** | École | *Année*
+
+### 🛠️ Compétences
+- **Front:** React, HTML, CSS
+- **Back:** Node.js, Python
+</details>
+
+---
+
 
 # 🛠️ Compétences & Outils
 
