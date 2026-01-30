@@ -94,8 +94,7 @@ Un espace pour tester, prototyper et apprendre rapidement.
 
 # 🌐 Me retrouver ailleurs
 
-- LinkedIn : [https://www.linkedin.com/in/rgn3](https://www.linkedin.com/in/rgn3)  
-- GitHub : [https://github.com/rgctechfi](https://github.com/rgctechfi)  
+- LinkedIn : [https://www.linkedin.com/in/rgn3](https://www.linkedin.com/in/rgn3)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=120&animation=fadeIn" width="100%"/>
