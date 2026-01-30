@@ -18,9 +18,10 @@
 
 # 👋 Salut, moi c’est Rudy
 
-Constamment dans la volonté de maitriser l'univers de la Data, passionné par les workflows, la qualité des données et les environnements Linux.  
+Constamment dans la volonté de maitriser l'univers de la Data, passionné par les workflows, la qualité des données et l'optimisation des environnements de développement.
 J’aime transformer des systèmes complexes en solutions simples, robustes et élégantes. A la fois connaisseur et proche du business, je sais aussi traduire le métier en technique.
 Mes domaines préférés sont l'analyse business, le Data Engineering, le DevSecOps.
+J'effectue une veille technologique quotidienne afin de comprendre ce monde qui évolue en permanence.
 
 <details>
 <summary> 📄 <b>Clique ici pour voir mon Parcours (CV Rapide)</b></summary>
