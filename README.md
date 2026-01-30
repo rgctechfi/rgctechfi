@@ -18,9 +18,9 @@
 
 # 👋 Salut, moi c’est Rudy
 
-Data Engineer en progression, passionné par les workflows, la qualité des données et les environnements Linux.  
-J’aime transformer des systèmes complexes en solutions simples, robustes et élégantes.  
-Actuellement engagé dans le **Data Engineering Zoomcamp 2026**, où je construis des pipelines modernes et industrialisables.
+Constamment dans la volonté de maitriser l'univers de la Data, passionné par les workflows, la qualité des données et les environnements Linux.  
+J’aime transformer des systèmes complexes en solutions simples, robustes et élégantes. A la fois connaisseur et proche du business, je sais aussi traduire le métier en technique.
+Mes domaines préférés sont l'analyse business, le Data Engineering, le DevSecOps.
 
 <details>
 <summary> 📄 <b>Clique ici pour voir mon Parcours (CV Rapide)</b></summary>
