@@ -78,11 +78,11 @@ J'effectue une veille technologique quotidienne afin de comprendre ce monde qui 
 ### 🔹 **Data Engineering Zoomcamp 2026**  
 Pipeline complet : ingestion → transformation → orchestration → dashboard.  
 **Tech** : Kestra, BigQuery, Docker, dbt  
-👉 `https://github.com/rgctechfi/data_engineering_zoomcamp_2026` [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2Frgctechfi%2Fdata_engineering_zoomcamp_2026")
+👉 https://github.com/rgctechfi/data_engineering_zoomcamp_2026
 
 ### 🔹 **Workshop & Expérimentations**  
 Un espace pour tester, prototyper et apprendre rapidement.  
-👉 [https://github.com/rgctechfi/Workshop](https://github.com/rgctechfi/Workshop)
+👉 https://github.com/rgctechfi/dbt-docker
 
 ---
 
