@@ -76,18 +76,19 @@ I conduct daily technology monitoring to understand this constantly evolving wor
 </p>
 ---
 
-# 🚀 Projets phares
+# 🚀 Main Project
 
 ### 🔹 **Data Engineering Zoomcamp 2026**  
-Pipeline complet : ingestion → transformation → orchestration → dashboard.  
+Data engineering / DevSecOps / Cloud : ingestion → transformation → orchestration → dashboard.  
 **Tech** : Kestra, BigQuery, Docker, dbt  
 👉 https://github.com/rgctechfi/data_engineering_zoomcamp_2026
 
+👉 https://github.com/rgctechfi/Bruin
+
 
 ### 🔹 **Workshop & Expérimentations**  
-Un espace pour tester, prototyper et apprendre rapidement.  
+A space for testing, discover:  
 👉 https://github.com/rgctechfi/dbt-docker
-👉 https://github.com/rgctechfi/Bruin
 
 ---
 
