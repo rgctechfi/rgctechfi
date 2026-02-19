@@ -83,9 +83,11 @@ Pipeline complet : ingestion → transformation → orchestration → dashboard.
 **Tech** : Kestra, BigQuery, Docker, dbt  
 👉 https://github.com/rgctechfi/data_engineering_zoomcamp_2026
 
+
 ### 🔹 **Workshop & Expérimentations**  
 Un espace pour tester, prototyper et apprendre rapidement.  
 👉 https://github.com/rgctechfi/dbt-docker
+👉 https://github.com/rgctechfi/Bruin
 
 ---
 
