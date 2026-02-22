@@ -16,7 +16,7 @@
 
 ---
 
-# 👋__Hi, I'm Rudy__
+# 👋 Hi, I'm Rudy
 
 Constantly driven by the desire to master the Data universe, passionate about workflows, data quality, and development environment optimization.
 
