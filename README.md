@@ -14,8 +14,6 @@
   </a>
 </p>
 
----
-
 # 👋 Hi, I'm Rudy
 
 Constantly driven by the desire to master the Data universe, passionate about workflows, data quality, and development environment optimization.
@@ -47,8 +45,6 @@ I conduct daily technology monitoring to understand this constantly evolving wor
 <p align="center">
   <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" alt="Data Engineer Code" width="400" />
 </p>
----
-
 
 # 🛠️ Skills & Tools
 
@@ -58,23 +54,29 @@ I conduct daily technology monitoring to understand this constantly evolving wor
 - Container : Docker  
 - Infra : Terraform  
 - Cloud : GCP  
-- Databases: Postgres, BigQuery  
+- Databases: Postgres, BigQuery
+
+### **Operating systems**
+<div align="center"> 
+  <img src="https://skillicons.dev/icons?i=windows,linux,apple" /> 
+</div>
 
 ### **Langages**
-- Python  
 
 <p left="center">
-  <img src="https://skillicons.dev/icons?i=python,git" />
+  <img src="https://skillicons.dev/icons?i=python,git,bash" />
+  <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg"     width="48" />
 </p>
 
-### **Tools & Ecosystems**
-- GitHub Actions  
-- VS Code  
-- Linux (Debian/Ubuntu)
+### **Tools**
+
 <p left="center">
-  <img src="https://skillicons.dev/icons?i=vscode,postgres,docker,gcp,dbt" />
+<img src="https://skillicons.dev/icons?i=vscode,postgres,docker,gcp,dbt" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" width="48" />
+<!-- COMMENTS
+<img src="URL_DE_TON_ICONE" width="48" />
+-->
 </p>
----
 
 # 🚀 Main Project
 
@@ -90,28 +92,24 @@ Data engineering / DevSecOps / Cloud : ingestion → transformation → orchestr
 A space for testing, discover:  
 👉 https://github.com/rgctechfi/dbt-docker
 
----
-
 ## 📊 GitHub statistics
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=rgctechfi&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgctechfi&layout=compact&theme=tokyonight" height="165" />
-
-  <br><br>
-
-  <img src="https://streak-stats.demolab.com?user=rgctechfi&theme=tokyonight" />
-
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=rgctechfi&show_icons=true&theme=tokyonight" height="165" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgctechfi&layout=compact&theme=tokyonight" height="165" /> 
+  
+  <br><br> 
+  
+  <img src="https://streak-stats.demolab.com?user=rgctechfi&theme=tokyonight" /> 
 </div>
 
----
+## 🔗 Connect with me 
 
-# 🌐 Find myself elsewhere
+<div align="center"> 
 
-- LinkedIn : [https://www.linkedin.com/in/rgn3](https://www.linkedin.com/in/rgn3)
+  <a href="https://www.linkedin.com/in/rgn3/"> 
+  <img src="https://skillicons.dev/icons?i=linkedin" /> 
+  </a> 
+</div> 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=120&animation=fadeIn" width="100%"/>
-</p>
----
+<!-- Footer --> <img align="center" src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=120&animation=fadeIn" width="100%" />
