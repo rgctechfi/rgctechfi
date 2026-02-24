@@ -13,39 +13,43 @@
   <img src="https://skillicons.dev/icons?i=linkedin" /> 
   </a> 
   </p>
+
+## 𝙃𝙞, 𝙄'𝙢 𝙍𝙪𝙙𝙮
+
+𝘊𝘰𝘯𝘴𝘵𝘢𝘯𝘵𝘭𝘺 𝘥𝘳𝘪𝘷𝘦𝘯 𝘣𝘺 𝘵𝘩𝘦 𝘥𝘦𝘴𝘪𝘳𝘦 𝘵𝘰 𝘮𝘢𝘴𝘵𝘦𝘳 𝘵𝘩𝘦 𝘋𝘢𝘵𝘢 𝘶𝘯𝘪𝘷𝘦𝘳𝘴𝘦, 𝘱𝘢𝘴𝘴𝘪𝘰𝘯𝘢𝘵𝘦 𝘢𝘣𝘰𝘶𝘵 𝘸𝘰𝘳𝘬𝘧𝘭𝘰𝘸𝘴, 𝘥𝘢𝘵𝘢 𝘲𝘶𝘢𝘭𝘪𝘵𝘺, 𝘢𝘯𝘥 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵 𝘦𝘯𝘷𝘪𝘳𝘰𝘯𝘮𝘦𝘯𝘵 𝘰𝘱𝘵𝘪𝘮𝘪𝘻𝘢𝘵𝘪𝘰𝘯. 𝘐 𝘭𝘰𝘷𝘦 𝘵𝘳𝘢𝘯𝘴𝘧𝘰𝘳𝘮𝘪𝘯𝘨 𝘤𝘰𝘮𝘱𝘭𝘦𝘹 𝘴𝘺𝘴𝘵𝘦𝘮𝘴 𝘪𝘯𝘵𝘰 𝘴𝘪𝘮𝘱𝘭𝘦, 𝘳𝘰𝘣𝘶𝘴𝘵, 𝘢𝘯𝘥 𝘦𝘭𝘦𝘨𝘢𝘯𝘵 𝘴𝘰𝘭𝘶𝘵𝘪𝘰𝘯𝘴. 𝘉𝘰𝘵𝘩 𝘬𝘯𝘰𝘸𝘭𝘦𝘥𝘨𝘦𝘢𝘣𝘭𝘦 𝘢𝘯𝘥 𝘣𝘶𝘴𝘪𝘯𝘦𝘴𝘴-𝘰𝘳𝘪𝘦𝘯𝘵𝘦𝘥, 𝘐 𝘤𝘢𝘯 𝘢𝘭𝘴𝘰 𝘵𝘳𝘢𝘯𝘴𝘭𝘢𝘵𝘦 𝘣𝘶𝘴𝘪𝘯𝘦𝘴𝘴 𝘯𝘦𝘦𝘥𝘴 𝘪𝘯𝘵𝘰 𝘵𝘦𝘤𝘩𝘯𝘪𝘤𝘢𝘭 𝘴𝘰𝘭𝘶𝘵𝘪𝘰𝘯𝘴. 𝘔𝘺 𝘧𝘢𝘷𝘰𝘳𝘪𝘵𝘦 𝘥𝘰𝘮𝘢𝘪𝘯𝘴 𝘢𝘳𝘦 𝘣𝘶𝘴𝘪𝘯𝘦𝘴𝘴 𝘢𝘯𝘢𝘭𝘺𝘴𝘪𝘴, 𝘋𝘢𝘵𝘢 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨, 𝘢𝘯𝘥 𝘋𝘦𝘷𝘚𝘦𝘤𝘖𝘱𝘴. 𝘐 𝘤𝘰𝘯𝘥𝘶𝘤𝘵 𝘥𝘢𝘪𝘭𝘺 𝘵𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘺 𝘮𝘰𝘯𝘪𝘵𝘰𝘳𝘪𝘯𝘨 𝘵𝘰 𝘶𝘯𝘥𝘦𝘳𝘴𝘵𝘢𝘯𝘥 𝘵𝘩𝘪𝘴 𝘤𝘰𝘯𝘴𝘵𝘢𝘯𝘵𝘭𝘺 𝘦𝘷𝘰𝘭𝘷𝘪𝘯𝘨 𝘸𝘰𝘳𝘭𝘥.
+
   <p align="center"> 
   &nbsp; &nbsp; <a href="CV_LINK.pdf" target="_blank">
     <img src="https://img.shields.io/badge/My_CV-download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV" height="40"/>
   </a>
 </p>
 
-## 𝙃𝙞, 𝙄'𝙢 𝙍𝙪𝙙𝙮
-
-𝘊𝘰𝘯𝘴𝘵𝘢𝘯𝘵𝘭𝘺 𝘥𝘳𝘪𝘷𝘦𝘯 𝘣𝘺 𝘵𝘩𝘦 𝘥𝘦𝘴𝘪𝘳𝘦 𝘵𝘰 𝘮𝘢𝘴𝘵𝘦𝘳 𝘵𝘩𝘦 𝘋𝘢𝘵𝘢 𝘶𝘯𝘪𝘷𝘦𝘳𝘴𝘦, 𝘱𝘢𝘴𝘴𝘪𝘰𝘯𝘢𝘵𝘦 𝘢𝘣𝘰𝘶𝘵 𝘸𝘰𝘳𝘬𝘧𝘭𝘰𝘸𝘴, 𝘥𝘢𝘵𝘢 𝘲𝘶𝘢𝘭𝘪𝘵𝘺, 𝘢𝘯𝘥 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵 𝘦𝘯𝘷𝘪𝘳𝘰𝘯𝘮𝘦𝘯𝘵 𝘰𝘱𝘵𝘪𝘮𝘪𝘻𝘢𝘵𝘪𝘰𝘯. 𝘐 𝘭𝘰𝘷𝘦 𝘵𝘳𝘢𝘯𝘴𝘧𝘰𝘳𝘮𝘪𝘯𝘨 𝘤𝘰𝘮𝘱𝘭𝘦𝘹 𝘴𝘺𝘴𝘵𝘦𝘮𝘴 𝘪𝘯𝘵𝘰 𝘴𝘪𝘮𝘱𝘭𝘦, 𝘳𝘰𝘣𝘶𝘴𝘵, 𝘢𝘯𝘥 𝘦𝘭𝘦𝘨𝘢𝘯𝘵 𝘴𝘰𝘭𝘶𝘵𝘪𝘰𝘯𝘴. 𝘉𝘰𝘵𝘩 𝘬𝘯𝘰𝘸𝘭𝘦𝘥𝘨𝘦𝘢𝘣𝘭𝘦 𝘢𝘯𝘥 𝘣𝘶𝘴𝘪𝘯𝘦𝘴𝘴-𝘰𝘳𝘪𝘦𝘯𝘵𝘦𝘥, 𝘐 𝘤𝘢𝘯 𝘢𝘭𝘴𝘰 𝘵𝘳𝘢𝘯𝘴𝘭𝘢𝘵𝘦 𝘣𝘶𝘴𝘪𝘯𝘦𝘴𝘴 𝘯𝘦𝘦𝘥𝘴 𝘪𝘯𝘵𝘰 𝘵𝘦𝘤𝘩𝘯𝘪𝘤𝘢𝘭 𝘴𝘰𝘭𝘶𝘵𝘪𝘰𝘯𝘴. 𝘔𝘺 𝘧𝘢𝘷𝘰𝘳𝘪𝘵𝘦 𝘥𝘰𝘮𝘢𝘪𝘯𝘴 𝘢𝘳𝘦 𝘣𝘶𝘴𝘪𝘯𝘦𝘴𝘴 𝘢𝘯𝘢𝘭𝘺𝘴𝘪𝘴, 𝘋𝘢𝘵𝘢 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨, 𝘢𝘯𝘥 𝘋𝘦𝘷𝘚𝘦𝘤𝘖𝘱𝘴. 𝘐 𝘤𝘰𝘯𝘥𝘶𝘤𝘵 𝘥𝘢𝘪𝘭𝘺 𝘵𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘺 𝘮𝘰𝘯𝘪𝘵𝘰𝘳𝘪𝘯𝘨 𝘵𝘰 𝘶𝘯𝘥𝘦𝘳𝘴𝘵𝘢𝘯𝘥 𝘵𝘩𝘪𝘴 𝘤𝘰𝘯𝘴𝘵𝘢𝘯𝘵𝘭𝘺 𝘦𝘷𝘰𝘭𝘷𝘪𝘯𝘨 𝘸𝘰𝘳𝘭𝘥.
-
-<details>
-<summary> 📄 <b>Click here to view my Career Path (Quick CV)</b></summary>
-<br>
-
-### 💼 XP
-- **Current Position** | Company | *Dates*
-  - Job description 1...
-- **Previous Position** | Company | *Dates*
-  - Description...
-
-### 🎓 Education
-- **Qualification** | School | *Year*
-
-### 🛠️ Skills
-- **Front:** React, HTML, CSS
-- **Back:** Node.js, Python
+<details> 
+  <summary align="center">
+    📄 <b>Click here to view my Career Path
+    </b>
+  </summary> 
+  <br>
+  
+  ### 💼 XP 
+  - **Current Position** | Company | *Dates* 
+  - Job description 1... 
+  - **Previous Position** | Company | *Dates* 
+  - Description... 
+  
+  ### 🎓 Education 
+  - **Qualification** | School | *Year* 
+  
+  ### 🛠️ Skills 
+  - **Front:** test
+  - - **Back:** test
 </details>
+
+# 🛠️ **𝙎𝙠𝙞𝙡𝙡𝙨 & 𝙏𝙤𝙤𝙡𝙨**
 
 <p align="center">
   <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" alt="Data Engineer Code" width="400" />
 </p>
-
-# 🛠️ **𝙎𝙠𝙞𝙡𝙡𝙨 & 𝙏𝙤𝙤𝙡𝙨**
 
 ### 𝙎𝙠𝙞𝙡𝙡𝙨 — 𝘿𝙖𝙩𝙖 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜 & 𝘿𝙚𝙫𝙊𝙥𝙨 
 - 𝙊𝙧𝙘𝙝𝙚𝙨𝙩𝙧𝙖𝙩𝙞𝙤𝙣 : 𝙆𝙚𝙨𝙩𝙧𝙖, 𝘼𝙞𝙧𝙛𝙡𝙤𝙬, 𝙗𝙧𝙪𝙞𝙣
