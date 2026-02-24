@@ -2,10 +2,11 @@
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?text=𝙃𝙚𝙮%20𝙀𝙫𝙚𝙧𝙮𝙤𝙣𝙚%21&animation=fadeIn&type=waving&color=gradient&height=120" 
+    src="https://capsule-render.vercel.app/api?text=𝙃𝙚𝙮%20𝙀𝙫𝙚𝙧𝙮𝙤𝙣𝙚%21&animation=fadeIn&type=waving&color=0:1e90ff,100:ff7f00&height=120&fontColor=ffffff" 
     width="100%" 
   />
 </p>
+
 
 <p align="center"> 
 
@@ -112,4 +113,11 @@
   </a> 
 </div> 
 
-<!-- Footer --> <img align="center" src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=120&animation=fadeIn" width="100%" />
+<!-- Footer -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?section=footer&type=waving&animation=fadeIn&height=120&color=0:1e90ff,100:ff7f00&fontColor=ffffff" 
+    width="100%" 
+  />
+</p>
+
