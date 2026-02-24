@@ -48,12 +48,13 @@ I conduct daily technology monitoring to understand this constantly evolving wor
 
 # 🛠️ Skills & Tools
 
-### **Data Engineering**
-- Orchestration : Kestra, Airflow  
+### **Data Engineering & DevOps**
+- Orchestration : Kestra, Airflow, bruin
+- Ingestion : dlt, python  
 - Transformation : dbt  
 - Container : Docker  
-- Infra : Terraform  
-- Cloud : GCP  
+- Infra : Terraform, Ansible
+- Cloud : GCP, Snowflake
 - Databases: Postgres, BigQuery
 
 ### **Operating systems**
