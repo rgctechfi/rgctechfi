@@ -65,14 +65,14 @@ I conduct daily technology monitoring to understand this constantly evolving wor
 ### **Langages**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,bash" />
+  <img src="https://skillicons.dev/icons?i=python,bash,powershell" />
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg"width="48" />
 </p>
 
 ### **Tools**
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,postgres,docker,gcp,dbt" />
+<img src="https://skillicons.dev/icons?i=vscode,postgres,docker,gcp,git" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" width="48" />
 <!-- COMMENTS
 <img src="URL_DE_TON_ICONE" width="48" />
