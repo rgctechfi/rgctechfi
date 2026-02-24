@@ -82,7 +82,7 @@
 -->
 </p>
 
-# 🚀 𝙈𝙖𝙞𝙣 𝙋𝙧𝙤𝙟𝙚𝙘𝙩 
+# 🚀 𝙈𝙖𝙞𝙣 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨
 
 👉 https://github.com/rgctechfi/Bruin
 
