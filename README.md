@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/rgn3/">
     <img height="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" />
   </a>
-  &nbsp; &nbsp; <a href="LIEN_VERS_TON_CV.pdf" target="_blank">
+  &nbsp; &nbsp; <a href="CV_LINK.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Mon_CV-Télécharger-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV" height="40"/>
   </a>
 </p>
@@ -27,19 +27,19 @@ My favorite domains are business analysis, Data Engineering, and DevSecOps.
 I conduct daily technology monitoring to understand this constantly evolving world.
 
 <details>
-<summary> 📄 <b>Clique ici pour voir mon Parcours (CV Rapide)</b></summary>
+<summary> 📄 <b>Click here to view my Career Path (Quick CV)</b></summary>
 <br>
 
 ### 💼 XP
-- **Poste Actuel** | Entreprise | *Dates*
-  - Description de la tâche 1...
-- **Poste Précédent** | Entreprise | *Dates*
+- **Current Position** | Company | *Dates*
+  - Job description 1...
+- **Previous Position** | Company | *Dates*
   - Description...
 
-### 🎓 Formation
-- **Diplôme** | École | *Année*
+### 🎓 Education
+- **Qualification** | School | *Year*
 
-### 🛠️ Compétences
+### 🛠️ Skills
 - **Front:** React, HTML, CSS
 - **Back:** Node.js, Python
 </details>
@@ -50,15 +50,15 @@ I conduct daily technology monitoring to understand this constantly evolving wor
 ---
 
 
-# 🛠️ Compétences & Outils
+# 🛠️ Skills & Tools
 
 ### **Data Engineering**
 - Orchestration : Kestra, Airflow  
 - Transformation : dbt  
-- Conteneurisation : Docker  
+- Container : Docker  
 - Infra : Terraform  
 - Cloud : GCP  
-- Bases de données : Postgres, BigQuery  
+- Databases: Postgres, BigQuery  
 
 ### **Langages**
 - Python  
@@ -67,7 +67,7 @@ I conduct daily technology monitoring to understand this constantly evolving wor
   <img src="https://skillicons.dev/icons?i=python,git" />
 </p>
 
-### **Outils & Écosystème**
+### **Tools & Ecosystems**
 - GitHub Actions  
 - VS Code  
 - Linux (Debian/Ubuntu)
@@ -92,13 +92,22 @@ A space for testing, discover:
 
 ---
 
-# 📊 Statistiques GitHub
+## 📊 GitHub statistics
 
-![stats](https://github-readme-stats.vercel.app/api?username=rgctechfi&show_icons=true&theme=tokyonight)
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=rgctechfi&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgctechfi&layout=compact&theme=tokyonight" height="165" />
+
+  <br><br>
+
+  <img src="https://streak-stats.demolab.com?user=rgctechfi&theme=tokyonight" />
+
+</div>
 
 ---
 
-# 🌐 Me retrouver ailleurs
+# 🌐 Find myself elsewhere
 
 - LinkedIn : [https://www.linkedin.com/in/rgn3](https://www.linkedin.com/in/rgn3)
 
