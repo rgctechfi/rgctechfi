@@ -88,9 +88,11 @@
 𝘿𝙖𝙩𝙖 𝙚𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜 / 𝘿𝙚𝙫𝙎𝙚𝙘𝙊𝙥𝙨 / 𝘾𝙡𝙤𝙪𝙙 : 𝙞𝙣𝙜𝙚𝙨𝙩𝙞𝙤𝙣 → 𝙩𝙧𝙖𝙣𝙨𝙛𝙤𝙧𝙢𝙖𝙩𝙞𝙤𝙣 → 𝙤𝙧𝙘𝙝𝙚𝙨𝙩𝙧𝙖𝙩𝙞𝙤𝙣 → 𝙙𝙖𝙨𝙝𝙗𝙤𝙖𝙧𝙙. 
 **𝙏𝙚𝙘𝙝** : 𝙆𝙚𝙨𝙩𝙧𝙖, 𝘽𝙞𝙜𝙌𝙪𝙚𝙧𝙮, 𝘿𝙤𝙘𝙠𝙚𝙧, 𝙙𝙗𝙩 
 
-👉 https://github.com/rgctechfi/data_engineering_zoomcamp_2026 
-
 👉 https://github.com/rgctechfi/Bruin
+
+👉 https://github.com/rgctechfi/dlt
+
+👉 https://github.com/rgctechfi/data_engineering_zoomcamp_2026 
 
 
 ### **𝙒𝙤𝙧𝙠𝙨𝙝𝙤𝙥 & 𝙀𝙭𝙥𝙚𝙧𝙞𝙢𝙚𝙣𝙩𝙖𝙩𝙞𝙤𝙣𝙨**  
