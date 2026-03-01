@@ -1,5 +1,3 @@
-# !!!WIP WORK IN PROGRESS !!!
-
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?text=𝙃𝙚𝙮%20𝙀𝙫𝙚𝙧𝙮𝙤𝙣𝙚%21&animation=fadeIn&type=waving&color=0:1e90ff,100:ff7f00&height=120&fontColor=ffffff" 
