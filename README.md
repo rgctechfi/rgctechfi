@@ -142,6 +142,8 @@
 
 👉 https://github.com/rgctechfi/Bruin
 
+👉 https://github.com/rgctechfi/spark
+
 👉 https://github.com/rgctechfi/dlt
 
 ### **𝘿𝙖𝙩𝙖 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜 𝙕𝙤𝙤𝙢𝙘𝙖𝙢𝙥 2026** 
@@ -152,6 +154,7 @@
 
 ### **𝙒𝙤𝙧𝙠𝙨𝙝𝙤𝙥 & 𝙀𝙭𝙥𝙚𝙧𝙞𝙢𝙚𝙣𝙩𝙖𝙩𝙞𝙤𝙣𝙨**  
 𝘼 𝙨𝙥𝙖𝙘𝙚 𝙛𝙤𝙧 𝙩𝙚𝙨𝙩𝙞𝙣𝙜, 𝙙𝙞𝙨𝙘𝙤𝙫𝙚𝙧:  
+👉 https://github.com/rgctechfi/bpmn
 👉 https://github.com/rgctechfi/dbt-docker
 
 ## 📊 **𝙂𝙞𝙩𝙃𝙪𝙗 𝙨𝙩𝙖𝙩𝙞𝙨𝙩𝙞𝙘𝙨**
