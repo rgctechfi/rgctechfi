@@ -144,6 +144,8 @@
 
 👉 https://github.com/rgctechfi/spark
 
+👉 https://github.com/rgctechfi/flink
+
 👉 https://github.com/rgctechfi/dlt
 
 ### **𝘿𝙖𝙩𝙖 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜 𝙕𝙤𝙤𝙢𝙘𝙖𝙢𝙥 2026** 
