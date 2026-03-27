@@ -140,6 +140,8 @@
 
 # 🚀 𝙈𝙖𝙞𝙣 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨
 
+👉 https://github.com/rgctechfi/ecodata_cloud
+
 👉 https://github.com/rgctechfi/Bruin
 
 👉 https://github.com/rgctechfi/spark
