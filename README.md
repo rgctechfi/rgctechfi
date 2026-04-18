@@ -121,7 +121,7 @@
   <img src="https://skillicons.dev/icons?i=windows,linux,apple" /> 
 </div>
 
-### **𝙇𝙖𝙣𝙜𝙖𝙜𝙚𝙨** 
+### **𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨** 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,powershell" />
