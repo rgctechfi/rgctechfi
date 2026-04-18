@@ -131,7 +131,7 @@
 ## **𝙏𝙤𝙤𝙡𝙨**
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,postgres,docker,gcp,git" />
+<img src="https://skillicons.dev/icons?i=vscode,postgres,docker,gcp,git,excel,powerbi" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" width="48" />
 <!-- COMMENTS
 <img src="URL_DE_TON_ICONE" width="48" />
